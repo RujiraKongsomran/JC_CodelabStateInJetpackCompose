@@ -32,6 +32,6 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     JC_CodelabStateInJetpackComposeTheme {
-
+        WellnessScreen()
     }
 }
